@@ -1,4 +1,4 @@
-# 🗑️ AI Garbage Classifier — Smart Waste Classification System
+# 🗑️ Smart Garbage Classifier — AI Waste Classification System
 
 > An end-to-end deep learning web application that classifies waste images into 6 categories in real time, built during my Machine Learning Internship at **Edunet Foundation**.
 
